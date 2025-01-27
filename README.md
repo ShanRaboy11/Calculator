@@ -5,4 +5,4 @@
 # 💫 About Me:
 📚 I am currently learning Machine Learning, Deep Learning, Python, and AI<br>
 🎓 2nd-year Computer Engineering student @ CIT-U<br>
-📊 DOST Scholar C<br>
+📊 DOST Scholar <br>
